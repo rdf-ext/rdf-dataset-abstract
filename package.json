@@ -1,6 +1,6 @@
 {
   "name": "rdf-dataset-abstract",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Abstract RDFJS Dataset",
   "main": "index.js",
   "scripts": {
